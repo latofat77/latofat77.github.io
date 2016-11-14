@@ -49,14 +49,7 @@ font-family: ;
 	padding-right: 60px;
 
 }
-#movieback
-{
-	background:("photo/movieback.jpg");
-	background-repeat: no-repeat;
-	background-attachment:fixed;
-	background-position: center;
-	background-size:cover;
-}
+
 
 #first
 {   padding-left: 4cm;
