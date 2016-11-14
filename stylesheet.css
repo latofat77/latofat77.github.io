@@ -1,6 +1,14 @@
-body
+#firstpage
 {
 	background-image: url("photo/firstpage.png");
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+	background-position: center;
+	background-size:cover;
+}
+#movieback
+{
+	background-image:url("photo/movieback.jpg");
 	background-repeat: no-repeat;
 	background-attachment:fixed;
 	background-position: center;
