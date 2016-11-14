@@ -1,0 +1,132 @@
+h2{
+	font-size: 35px;
+}
+h1
+{
+	padding-left: 12cm;
+	color: #E91E63;
+	font-family: cursive; 
+	font-size: 40px;
+}
+ul{
+	padding-left: 8cm;
+	color: #03A9F4;
+	font-family: underline; 
+	font-size: 25px;
+}
+.films-photo{
+	width: 38%;
+
+}
+.films-photos{
+	width: 30%;
+
+}
+.myphoto {
+    display: inline-block;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    transition: 0.3s;
+    width: 25%;
+    
+}
+
+.myphoto:hover {
+    box-shadow: 0 0 2px 1px rgba
+    (0, 140, 186, 0.5);
+    
+}
+
+#info{
+	font-size: 25px;
+	font-weight: bold;
+	color: #03A9F4;;
+	padding-left: 8cm;
+}
+
+#firstpage
+{
+	background-image:url("photos/firstpage.PNG");
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+	background-position: center;
+	background-size:cover;
+	
+}
+#movieback
+{
+	background-image:url("photos/movieback.JPG");
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+	background-position: center;
+	background-size:cover;
+
+}
+#first{
+	color: white;
+	padding-left: 2cm;
+	opacity:0.8;
+	background:#E57373;
+	color:white;
+	padding:5px;
+	border:2px, solid, cornBlue;
+	border-radius:3px;
+	font-weight: bold;
+	font-size: 20px;
+
+}
+
+#second{
+	padding-top: 10cm;
+	color: white;
+	padding-left: 2cm;
+	opacity:0.8;
+	background: #E57373;
+	color:white;
+	padding:5px;
+	border:2px, solid, cornBlue;
+	border-radius:3px;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+#third{
+	padding-top: 5cm;
+	color: white;
+	padding-left: 2cm;
+	opacity:0.8;
+	background:#E57373;
+	color:white;
+	padding:5px;
+	border:2px, solid, cornBlue;
+	border-radius:3px;
+	font-weight: bold;
+	font-size: 20px;
+}
+#fourth{
+	padding-top: 5cm;
+	color: white;
+	padding-left: 2cm;
+	opacity:0.8;
+	background:#E57373;
+	color:white;
+	padding:5px;
+	border:2px, solid, cornBlue;
+	border-radius:3px;
+	font-weight: bold;
+	font-size: 20px;
+}
+#fifth{
+	padding-top: 5cm;
+	color: white;
+	padding-left: 2cm;
+	opacity:0.8;
+	background:#E57373;
+	color:white;
+	padding:5px;
+	border:2px, solid, cornBlue;
+	border-radius:3px;
+	font-weight: bold;
+	font-size: 20px;
+}
