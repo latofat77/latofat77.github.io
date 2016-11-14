@@ -47,7 +47,7 @@ ul{
 
 #firstpage
 {
-	background-image:url("photos/firstpage.png");
+	background-image:url("firstpage.png");
 	background-repeat: no-repeat;
 	background-attachment:fixed;
 	background-position: center;
@@ -56,7 +56,7 @@ ul{
 }
 #movieback
 {
-	background-image:url("photos/movieback.jpg");
+	background-image:url("movieback.jpg");
 	background-repeat: no-repeat;
 	background-attachment:fixed;
 	background-position: center;
