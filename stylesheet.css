@@ -1,0 +1,115 @@
+#firstpage
+{
+	background-image:url("photo/firstpage.PNG");
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+	background-position: center;
+	background-size:cover;
+}
+h1
+{
+color: red;
+font-family: ;	
+}
+#name
+{
+	padding-left:10cm;
+	color:#E91E63;
+	font-size:40px;
+	text-decoration: underline;
+}
+.myphoto
+{
+	padding-left:8cm;
+}
+
+#info
+{
+	text-shadow:-1px -1px #222,
+	             0 1px #444;
+    color: #03A9F4;
+	font-size: 20px;
+	padding-left:5cm;
+}
+#hobbies
+{
+	text-shadow:-1px -1px #222,
+	             0 1px #444;
+    color:#03A9F4;
+	font-size: 20px;
+	padding-left:5cm;
+}
+#movie
+{
+	padding-left: 31cm;
+}
+
+.photo1
+{
+	padding-right: 60px;
+
+}
+#movieback
+{
+	background-image:url("photo/movieback.JPG");
+	background-repeat: no-repeat;
+	background-attachment:fixed;
+	background-position: center;
+	background-size:cover;
+}
+
+#first
+{   padding-left: 4cm;
+	padding-top:2cm;
+	opacity:0.8;
+	background:#E57373;
+	color:white;
+	padding:5px;
+	border:2px, solid, cornBlue;
+	border-radius:3px;
+}
+#second
+{
+	padding-left:8cm;
+	padding-top:2cm;
+	opacity:0.8;
+	background:#E57373;
+	color:white;
+	padding:5px;
+	border:2px, solid;
+	border-radius:3px;
+}
+#third
+{
+	padding-left:4cm;
+	padding-top:2cm;
+	opacity:0.8;
+	background:#E57373;
+	color:white;
+	padding:5px;
+	border:2px, solid;
+	border-radius:3px;
+}
+#fourth
+{
+	padding-left:4cm;
+	padding-top:2cm;
+	opacity:0.8;
+	background:#E57373;
+	color:white;
+	padding:5px;
+	border:2px, solid;
+	border-radius:3px;
+}
+#fifth
+{
+	padding-left:4cm;
+	padding-top:2cm;
+	opacity:0.8;
+	background:#E57373;
+	color:white;
+	padding:5px;
+	border:2px, solid;
+	border-radius:3px;
+	
+}
